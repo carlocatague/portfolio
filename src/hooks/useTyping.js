@@ -5,7 +5,6 @@ const PHRASES = [
   'Architectural Designer',
   'UI/UX Designer',
   'Full-Stack Developer',
-  '3D Visualizer',
 ]
 
 const TYPE_SPEED   = 68
